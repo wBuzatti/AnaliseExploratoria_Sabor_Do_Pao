@@ -17,7 +17,7 @@ Para garantir a organização e a segurança dos dados da empresa parceira, o pr
 ```text
 ├── data/
 │   ├── raw/               # Planilhas originais (NÃO SOBE PARA O GIT)
-│   └── processed/         # Dados limpos após o ETL (NÃO SOBE PARA O GIT)
+│   └── limpos/         # Dados limpos após o ETL (NÃO SOBE PARA O GIT)
 ├── docs/                  # Documentação do projeto, Dicionário de Dados e templates em Excel
 ├── src/                   # Pipeline do Apache HOP (ETL)
 ├── dashboards/            # Referências visuais e documentação dos painéis
