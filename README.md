@@ -7,7 +7,7 @@ O projeto consolida dados de três frentes operacionais (Produção, Vendas e No
 
 ## Arquitetura e Tecnologias
 * **Linguagem Principal:** Python 3
-* **Manipulação de Dados:** Pandas
+* **Manipulação de Dados:** Apache HOP
 * **Visualização Final:** Power BI Service
 * **Metodologia:** Ágil (Scrum adaptado)
 
